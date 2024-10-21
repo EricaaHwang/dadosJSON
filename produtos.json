@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Calça Jeans",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Tênis All Star",
+        "tamanho": 40,
+        "preço": 180.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Tênis p/ corrida",
+        "tamanho": 38,
+        "preço": 199.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Blusa social",
+        "tamanho": "M",
+        "preço": 79.90,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Calça moletom",
+        "tamanho": "G",
+        "preço": 99.99,
+        "imagem": "img/teste.jpg"
+    },
+    {
+        "nome": "Camiseta estampada",
+        "tamanho": "G",
+        "preço": 120.00,
+        "imagem": "img/teste.jpg"
+    }
+]            
